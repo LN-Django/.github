@@ -5,7 +5,7 @@ This is a micro services project that is implemented with [Django](https://www.d
 ![Architecture Diagram](https://github.com/LN-Django/boilerplate/blob/main/docs/architecture_diagram.png?raw=true)
 
 ## Sequence Diagram
-![Sequence Diagram](https://raw.githubusercontent.com/LN-Django/boilerplate/main/docs/sequence_diagram2.png)
+![Sequence Diagram](https://raw.githubusercontent.com/LN-Django/boilerplate/main/docs/sequence_diagram3.png)
 
 ## CI/CD Pipeline
 For this project, CI/CD is also implemented using [Github Actions](https://github.com/features/actions). Please take a look into the diagram below to see more about the CI/CD pipeline.
